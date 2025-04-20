@@ -138,7 +138,7 @@ We welcome contributions! Please see our:
 ## Contact 📬
 
 For collaboration :
-- 📧 Email: [micromouse-support@quantumlabs.ai](mailto:micromouse-support@quantumlabs.ai)
+- 📧 Email: [micromouse-support@quantumlabs.ai](mailto:micromouse-support@quantummouse.ai)
 - 💬 Discord: [Quantum Micromouse Hub](https://discord.gg/quantum-micromouse)
 - 🐦 Twitter: [@QuantumMouseTeam](https://twitter.com/QuantumMouseTeam)
 
