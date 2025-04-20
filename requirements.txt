@@ -1,0 +1,23 @@
+# Core dependencies
+numpy>=1.24.0
+jax>=0.4.13
+jaxlib>=0.4.13
+
+# Progress tracking and logging
+tqdm>=4.65.0
+
+# Command line interface
+argparse>=1.4.0
+
+# Development dependencies
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.1.0
+mypy>=1.5.1
+
+# Documentation
+sphinx>=7.1.2
+sphinx-rtd-theme>=1.3.0
+
+# For HTML logging interface
+jinja2>=3.1.2 
